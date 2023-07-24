@@ -1,1 +1,1 @@
-# Implementation of functions minimization algorightms for ML
+# Implementation of functions minimization algorithms for ML
